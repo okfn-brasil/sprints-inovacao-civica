@@ -17,4 +17,4 @@ Em cada pasta encontram-se um relatório escrito no padrão markdown com as segu
 
 ## Sprints já realizados
 
-* [Santa Catarina/2014-06-08-Florianópolis](Santa Catarina/2014-06-08-Florianópolis): Cifra de César
+* [Sprint Florianópolis/SC em 24 de maio de 2019](santa-catarina/2019-05-24-florianopolis.md)
