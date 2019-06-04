@@ -4,9 +4,9 @@ Neste repositório encontram-se os relatórios e históricos dos sprints realiza
 
 As pastas estão organizadas de acordo com o seguinte padrão: `estado, data e cidade`:
 
-**ESTADO/yyyy-mm-dd-CIDADE/**
+**ESTADO/yyyy-mm-dd-CIDADE.md**
 
-Em cada pasta encontram-se um relatório escrito no padrão markdown (`report.md`) com as seguintes informações:
+Em cada pasta encontram-se um relatório escrito no padrão markdown com as seguintes informações:
 
 * Número de participantes;
 * Informações de local e horários da realização do evento;
