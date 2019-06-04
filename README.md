@@ -1,4 +1,4 @@
-# sprints-inovacao-civica
+# Sprints de Inovacao Cívica no Brasil
 
 Neste repositório encontram-se os relatórios e históricos dos sprints realizados pelas cidades do Brasil, com o foco em projetos de inovação cívica.
 
